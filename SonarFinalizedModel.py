@@ -7,7 +7,6 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
 from sklearn.svm import SVC
 
-
 filename = "SonarData.csv"
 dataset = read_csv(filename, names=None)
 
@@ -33,7 +32,7 @@ predictions = model.predict(rescaledValidationX)
 print('Accuracy Score =',accuracy_score(Y_validation, predictions))
 print()
 print(confusion_matrix(Y_validation, predictions))
-#print(classification_report(Y_validation, predictions))
+
     
 
  
