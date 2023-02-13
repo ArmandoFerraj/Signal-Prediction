@@ -16,6 +16,7 @@ Objectives:
 
 Analyze Data:
 
+<iframe src="doc.pdf#toolbar=0" width="100%" height="500px"></iframe>
 [HistoPlot.pdf](https://github.com/ArmandoFerraj/MLSonarProject/files/10725903/HistoPlot.pdf)
 
 
