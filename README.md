@@ -16,7 +16,7 @@ Objectives:
 
 Analyze Data:
 
-[embed][HistoPlot.pdf](https://github.com/ArmandoFerraj/MLSonarProject/files/10725851/HistoPlot.pdf)[/embed]
+[HistoPlot.pdf](https://github.com/ArmandoFerraj/MLSonarProject/files/10725903/HistoPlot.pdf)
 
 
 
