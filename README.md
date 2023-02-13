@@ -5,11 +5,11 @@ Project Overwiew:
 -	We explore 6 machine learning algorthms for our model. 
 -	Logistic regression, linear discriminant analysis, naïve bayes, classification and regression trees, k nearest negihbors and support vector machines (LR, LDA, NB, CART, LNN, SVM).
 -	We evaluated and compared models using 10 fold cross validation and classification accuracy. 
--	It was found that transforming the data, then using SVM produced the best results for this problem.
--	The libraries used were sci-kit learn, numpy, scipy, pandas and matplotlib
+-	It was found that transforming the data then using SVM produced the best results for this problem.
+-	The libraries used were sci-kit learn, numpy, scipy, pandas and matplotlib.
 
 Objectives:
--	Analyze data.
+-	Analyze data
 -	Evaluate algorithms
 -	Improve accuracy 
 -	Finalize model
@@ -29,7 +29,7 @@ Analyze Data:
 ![BoxAndWhisker](https://user-images.githubusercontent.com/108841153/218568211-c0b62501-6314-412a-95f9-2b0969fc664e.png)
 
 
--	Correlation Matrix: The patches around the diagonal suggest attributes next to each other are generally more positively correleated with one another.
+-	Correlation Matrix: The patches around the diagonal suggest attributes next to each other are in general, more positively correleated with one another.
 
 
 ![CorrMat](https://user-images.githubusercontent.com/108841153/218568311-4379d90d-2ef6-424c-8d64-dc1032f68425.png)
@@ -47,13 +47,13 @@ Improve Accuracy:
 ![CompareScaledAlg](https://user-images.githubusercontent.com/108841153/218569653-8ca2eb03-1129-48fe-b5a9-865f0d4010fa.png)
 
 Finalize Model:
-- KNN and SVM show the most promise for a model.
-- Thus, we tuned the parameters for KNN and SVM to find the optimal configuration.
+- KNN and SVM show the most promise for a model. Thus we experimented with these two candidates.
+- We tuned the parameters for KNN and SVM to find the most optimal configuration.
 -	It was found that SVM with radial basis function as the kernel and C= 1.7 scored the best with 85.0% accuracy.
-- To finalize the model; 80% of the dataset is used to train, 20% to make predictions.
+- To finalize the model 80% of the dataset is used to train, 20% to make predictions.
 
 Results:
-- The final model achieved an accuracy of 92.8% on unseen data. This surpasses our estimate of 85.0%. The predictions for our binary classifcation problem are depicted below.
+- The final model achieved an accuracy of 92.8% on unseen data. This surpasses our estimate of 85.0%. The predictions made by our model are depicted below.
 -	confusion matrix:
 
 ![ConfusionMatrix](https://user-images.githubusercontent.com/108841153/218570407-92f52dfa-61ff-4b3d-9ba1-4b18a5aba5be.png)
