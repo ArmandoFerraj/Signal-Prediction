@@ -15,10 +15,8 @@ Objectives:
 -	Finalize model
 
 Analyze Data:
-We analyzed the data with statistics and visualizations.
--	Histogram & Density: Some attributes resemble a gaussian distribution, others an exponential.
-[HistoPlot.pdf](https://github.com/ArmandoFerraj/MLSonarProject/files/10725665/HistoPlot.pdf)
-[DensityPlot.pdf](https://github.com/ArmandoFerraj/MLSonarProject/files/10725669/DensityPlot.pdf)
+
+-	[embed]https://github.com/ArmandoFerraj/MLSonarProject/files/10725733/HistoPlot.pdf[/embed]
 
 
 
