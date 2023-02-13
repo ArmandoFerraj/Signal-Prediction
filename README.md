@@ -1,7 +1,7 @@
 # ML Sonar Project: Binary Classification Problem
 
 Project Overwiew:
--	The task is to train a model that can discriminate metal and rock objects from sonar signals (dataset was downloaded from UCI ML repository).
+-	The task is to train a model that can discriminate metal and rock objects from sonar signals
 -	We explore 6 machine learning algorthms for our model. 
 -	Logistic regression, linear discriminant analysis, naïve bayes, classification and regression trees, k nearest negihbors and support vector machines (LR, LDA, NB, CART, LNN, SVM).
 -	We evaluated and compared models using 10 fold cross validation and classification accuracy. 
@@ -16,7 +16,8 @@ Objectives:
 
 Analyze Data:
 
--	[embed]https://github.com/ArmandoFerraj/MLSonarProject/files/10725733/HistoPlot.pdf[/embed]
+[embed][HistoPlot.pdf](https://github.com/ArmandoFerraj/MLSonarProject/files/10725851/HistoPlot.pdf)[/embed]
+
 
 
 
