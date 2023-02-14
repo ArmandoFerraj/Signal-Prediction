@@ -15,7 +15,7 @@ Objectives:
 -	Finalize model
 
 Analyze Data:
-- Each object (metal or rock) in the dataset is described by 60 numbers (sonar frequencies). We analyzed our data with statistics and visualizations.
+- every class attribute in the dataset is described by 60 sonar frequencies (numbers). We analyzed the data with statistics and visualizations.
 -	Histogram: Some attributes resemble a gaussian distribution while others resemble an exponential.
 
 
@@ -36,7 +36,7 @@ Analyze Data:
 
 Evaluate Algorithms:
 - We evaluated the 6 algorithms and compared their performances.
--	LR had the best results with a mean accuracy of 77.9%. 
+-	LDA had the best results with a mean accuracy of 77.9% followed by LR with 77.8%. The wide spreads suggest a high variance
 - Distribution of accuracy: 
 ![CompareAlgs](https://user-images.githubusercontent.com/108841153/218569040-5e37bd14-1cf8-4bcf-ac20-6ece7a30e2cc.png)
 
