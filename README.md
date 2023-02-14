@@ -41,7 +41,7 @@ Evaluate Algorithms:
 ![CompareAlgs](https://user-images.githubusercontent.com/108841153/218569040-5e37bd14-1cf8-4bcf-ac20-6ece7a30e2cc.png)
 
 Improve Accuracy:
-- To improve accuracy we standardized the dataset, evaluated and compared. Pipelines were used to avoid data leakage.
+- To improve accuracy we standardized the dataset. Pipelines were implemented to avoid data leakage.
 -	KNN and SVM had the best results with a mean accuracy of 80.8% and 82.6%  respectively.
 - Distribution of accuracy:
 ![CompareScaledAlg](https://user-images.githubusercontent.com/108841153/218569653-8ca2eb03-1129-48fe-b5a9-865f0d4010fa.png)
