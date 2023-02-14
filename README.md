@@ -36,7 +36,8 @@ Analyze Data:
 
 Evaluate Algorithms:
 - We evaluated the 6 algorithms and compared their performances.
--	LDA had the best results with a mean accuracy of 77.9% followed by LR with 77.8%. The wide spreads suggest a high variance
+-	LDA had the best results with a mean accuracy of 77.9% followed by LR with 77.8%. 
+- The wide spreads among the algorithms suggest high variance.
 - Distribution of accuracy: 
 ![CompareAlgs](https://user-images.githubusercontent.com/108841153/218569040-5e37bd14-1cf8-4bcf-ac20-6ece7a30e2cc.png)
 
