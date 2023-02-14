@@ -50,7 +50,7 @@ Finalize Model:
 - KNN and SVM show the most promise for a model. Thus we experimented with these two candidates.
 - We tuned the parameters for KNN and SVM to find the most optimal configuration.
 -	It was found that SVM with radial basis function as the kernel and C= 1.7 scored the best with 85.0% accuracy.
-- To finalize the model 80% of the dataset is used to train, 20% to make predictions.
+- In the final model 80% of the dataset is used to train, 20% to make predictions.
 
 Results:
 - The final model achieved an accuracy of 92.8% on unseen data. This surpasses our estimate of 85.0%. The predictions made by our model are depicted below.
