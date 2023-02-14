@@ -15,12 +15,12 @@ Objectives:
 -	Finalize model
 
 Analyze Data:
-- We analyzed our data with statistics and visualizations.
--	Histogram & Density Plot: Some attributes resemble a gaussian distribution, others an exponential.
+- Each object (metal or rock) in the dataset is described by 60 numbers (sonar frequencies). We analyzed our data with statistics and visualizations.
+-	Histogram: Some attributes resemble a gaussian distribution while others resemble an exponential.
 
 
 ![HistoPlot](https://user-images.githubusercontent.com/108841153/218567137-4c72208d-b6c9-47a7-8c22-33221e215e09.png)
-![DensityPlot](https://user-images.githubusercontent.com/108841153/218567430-22b0e496-6559-4c1e-8cba-f9f46ec8aecb.png)
+
 
 
 -	Box and whisker plot: The attributes appear to have a differing mean. Standardizing the data may provide benefit.
