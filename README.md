@@ -1,4 +1,4 @@
-# Machine Learning Sonar Project: Binary Classification Problem
+# Machine Learning Project: Binary Classification Problem
 
 Project Overwiew:
 -	The task is to train a model that can discriminate metal and rock objects from sonar signals.
